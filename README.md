@@ -56,9 +56,9 @@ yarn install
 yarn start
 ```
 
-# Back-end
+# Front-end
 
-https://github.com/devCurti/Login_Page_Back
+https://github.com/devCurti/Login_Page_Front
 
 # Autor
 
